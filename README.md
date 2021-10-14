@@ -17,9 +17,9 @@ Skills: Java / Python / JS / HTML / CSS / Bootstrap / PHP / C / C++ / Android
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manishtambe&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishtambe)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishtambe&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=manishtambe&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=manishtambe&show_icons=true&theme=radical)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manishtambe&theme=radical)  
 
