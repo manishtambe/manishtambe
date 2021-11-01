@@ -21,10 +21,6 @@ Skills: Java / Python / JS / HTML / CSS / Bootstrap / PHP / C / C++ / Android
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=manishtambe&show_icons=true&theme=radical)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manishtambe&theme=radical)  
-
-![GitHub metrics](https://metrics.lecoq.io/manishtambe)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manishtambe&theme=radical)  
 
 ![Profile views](https://gpvc.arturio.dev/manishtambe)  
