@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Manish Tambe !
-![](https://codersnation.netlify.app/contact.html)
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hi there, I'm Manish Tambe</h1>
 
 "Hello, My name is Manish Tambe. I am student of the MIT Polytechnic Pune and Web/Desktop Application Developer. Check out my latest Web and Desktop Applications at my YouTube Channal "MMT". Feel free to take a look at my most recent projects on my YouTube channel. Also you can stop and say Hello at tambemanish1@gmail.com."
 
