@@ -4,8 +4,8 @@
 
 Skills: Java / Python / JS / HTML / CSS / Bootstrap / PHP / C / C++ / Android
 
-- 🔭 I’m currently working on Python. 
-- 🌱 I’m currently learning Android. 
+- 🔭 I’m currently working on C & C++. 
+- 🌱 I’m currently learning Python & Android. 
 - 🤔 I’m looking for help with Hackintosh. 
 - 💬 Ask me about Java or any tech related stuff. 
 - 📫 How to reach me: YouTube - Manish Tambe 
